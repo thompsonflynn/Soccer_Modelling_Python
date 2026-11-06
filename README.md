@@ -1,4 +1,4 @@
-# Soccer modelling in Python
+# Soccer Modelling in Python
 
 An interactive, recency-weighted Poisson football forecasting project using
 current data from [football-data.co.uk](https://www.football-data.co.uk/).
